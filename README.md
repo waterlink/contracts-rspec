@@ -31,7 +31,7 @@ class Example
 
   Contract Something => Any
   def do_something(something)
-    something.do
+    something.call
   end
 end
 

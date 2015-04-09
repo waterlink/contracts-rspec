@@ -5,7 +5,7 @@ require 'contracts/rspec/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "contracts-rspec"
-  spec.version       = Contracts::Rspec::VERSION
+  spec.version       = Contracts::RSpec::VERSION
   spec.authors       = ["Oleksii Fedorov"]
   spec.email         = ["waterlink000@gmail.com"]
   spec.summary       = %q{Plugin for contracts.ruby that fixes issues with rspec-mocks.}

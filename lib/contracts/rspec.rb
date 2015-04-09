@@ -1,7 +1,8 @@
 require "contracts/rspec/version"
+require "contracts/rspec/mocks"
 
 module Contracts
-  module Rspec
+  module RSpec
     # Your code goes here...
   end
 end
